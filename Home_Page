@@ -1,0 +1,23 @@
+This is the Main Entrance or Home Page of your Hospital Dashboard. Think of it like the table of contents in a book—it’s designed to help you jump to the specific information you need without getting lost.
+
+Here is a simple breakdown of what is on this page:
+
+1. Navigation Buttons
+The page features large, clear buttons that act as "doorways" to different parts of the hospital’s data. By clicking these, you can see:
+
+Overview: A quick summary of everything happening right now.
+
+Doctors: Information about which doctors are on duty and their schedules.
+
+Patients: Details about who is being treated and their medical status.
+
+Wards: A look at the different rooms (like the ICU or General Ward) to see which are full.
+
+2. Branding and Title
+At the top, you’ll see the Hospital Name and Logo. This makes the dashboard look professional and ensures everyone knows they are looking at the official data for that specific facility.
+
+3. Clean Design
+The page uses a simple layout with plenty of "white space." This is intentional so that the user doesn't feel overwhelmed by numbers the moment they open the file. It’s meant to be a calm starting point.
+
+4. Search and Filters
+There are usually areas on this page where you can select a specific Date or Department. This tells the dashboard, "Only show me information for today," or "Only show me what's happening in the Emergency Room."
